@@ -127,6 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 © 2021 GitHub, Inc.
 Terms
 Privacy
@@ -142,3 +143,5 @@ About
 Loading complete
 .idea/
 venv/
+=======
+>>>>>>> a953bbb6a2a20a71bc917b3ca1016524a4d9caae
