@@ -43,7 +43,7 @@ def main():
     """Checks for topic and creates the topic if it does not exist"""
     client = AdminClient({"bootstrap.servers": BROKER_URL})
 
-    topic_name = "org.udacity.lesson2.views"
+    topic_name = "org.udacity.lesson3.views"
     exists = topic_exists(client, topic_name)
     print(f"Topic {topic_name} exists: {exists}")
 
